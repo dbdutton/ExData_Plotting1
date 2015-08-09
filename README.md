@@ -1,5 +1,12 @@
-## Introduction
+## Instructions to Use Scripts
+Download the 4 scripts (plot1.R, plot2.R, plot3.R, and plot4.R)
+Install into a directory
+Download the data from: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a>
+The scripts assume running on a Mac using the "~/Downloads/" directory where the data file has been extracted.
+Execute the scripts
 
+
+## Introduction
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
